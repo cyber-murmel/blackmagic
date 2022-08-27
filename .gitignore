@@ -21,3 +21,5 @@ blackmagic_upgrade
 .gdb_history
 src/artifacts/
 
+# nix-build
+/result
